@@ -1,0 +1,6 @@
+D:\Study\3kurs\Методы оптимизации\lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\Study\3kurs\Методы оптимизации\lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Study\3kurs\Методы оптимизации\lab4\Lab4\bin\Debug\Lab4.exe
+D:\Study\3kurs\Методы оптимизации\lab4\Lab4\bin\Debug\Lab4.pdb
+D:\Study\3kurs\Методы оптимизации\lab4\Lab4\obj\Debug\Lab4.exe
+D:\Study\3kurs\Методы оптимизации\lab4\Lab4\obj\Debug\Lab4.pdb
